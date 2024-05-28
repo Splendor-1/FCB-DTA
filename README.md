@@ -16,3 +16,14 @@ WHERE CONDITION = NET
 
 ```
 ![](1000000138.jpg)
+![](1678174399443.jpg)
+|Name     |Gender   |Age      |
+|---------|---------|---------|
+|Lovewin  |Female   |24       |
+|Elizabeth|Female   |19       |
+|Taiye    |Male     |34       |
+|Tola     |Female   |22       |
+|Yemisi   |Female   |28       |
+|Adaku    |Female   |33       |
+|Segun    |Male     |39       |
+|Charity  |Female   |28       |
